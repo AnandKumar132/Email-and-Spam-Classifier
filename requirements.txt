@@ -1,3 +1,5 @@
+# requirements.txt
 streamlit
 nltk
-sklearn
+scikit-learn
+# other dependencies...
